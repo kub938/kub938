@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=oracle&logoColor=white&style=flat-square)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)
+![Zustand](https://img.shields.io/badge/-Zustand-593D88?logo=react&logoColor=white&style=flat-square)
 
 
 
