@@ -20,10 +20,6 @@
 
 
 
-
-## 🎖️ Competitive Programming
-![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=kub938)
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kub938&show_icons=true&theme=radical" width="400px" height="157px" alt="kub938's GitHub Stats"/>
