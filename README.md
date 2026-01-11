@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20kub938&fontSize=40&fontColor=ffffff)
 
 ## 👩‍💻 About Me
-- 🌱 I’m currently learning **React, TypeScript, and WebSockets**
+- 🌱 I’m currently learning **React, TypeScript, and CS**
 
 ## 🔧 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
@@ -18,13 +18,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)
 ![Zustand](https://img.shields.io/badge/-Zustand-593D88?logo=react&logoColor=white&style=flat-square)
 
-
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kub938&show_icons=true&theme=radical" width="400px" height="157px" alt="kub938's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kub938&layout=compact&theme=radical" width="400px" height="157px" alt="Top Languages"/>
-</p>
 
 ## 🔗 Let's Connect!
 - 📧 Email: [kub938@naver.com](mailto:kub938@naver.com)
